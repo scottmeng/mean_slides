@@ -1,3 +1,3 @@
 ## Slideshow for MEAN introduction
 
-### using reveal.js
+Created by Kaizhi Meng using reveal.js

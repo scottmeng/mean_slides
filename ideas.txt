@@ -1,0 +1,20 @@
+introduction to MEAN
+  - what MEAN stands for
+  - components of MEAN
+  - tools and supported language of MEAN
+  - why is this better?
+
+quick demo on how to start a MEAN project from scratch
+  - set up backend
+  - set up front-end
+  - live step-by-step demo
+
+existing MEAN stack frameworks
+  - mean.io and more
+  -
+
+Transify
+  - what it is and its functions
+  - why choose MEAN?
+  - how it works
+  - demo
